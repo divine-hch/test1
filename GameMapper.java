@@ -9,3 +9,4 @@ import org.springframework.stereotype.Repository;
 @Repository
 public interface GameMapper extends BaseMapper<Game> {
 }
+/*12345*/
