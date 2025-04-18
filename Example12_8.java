@@ -16,7 +16,7 @@ public class Example12_8 {
         liubei.start();
         likui.start();
 /*
-1234566666666
+123456789
 */
         zhangfei.start();
 
